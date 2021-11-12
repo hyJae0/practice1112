@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
+## 안녕하세요
 
+
+# 더큰글자
+### 작은 글자
+
+1. 순서
+2. 순서
+
+-항목 1
+-항목 2 
 You can use the [editor on GitHub](https://github.com/hyJae0/practice1112/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
